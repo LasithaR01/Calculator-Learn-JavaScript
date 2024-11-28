@@ -64,7 +64,7 @@ See the [LICENSE](LICENSE) file for more information.
 
 ## Contact
 
-- GitHub: [your-username](https://github.com/LasithaR01)
-- Email: [your-email@example.com](mailto:lasitharansara87@gmail.com)
+- GitHub: [LasithaR01](https://github.com/LasithaR01)
+- Email: [lasitharansara87@gmail.com](mailto:lasitharansara87@gmail.com)
 
 ---
