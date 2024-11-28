@@ -9,10 +9,6 @@ A **simple and interactive calculator** built with **HTML**, **CSS**, and **Java
 - Clear and reset functionality.
 - Error handling for invalid inputs (e.g., division by zero).
 
-## Demo
-
-You can try out the live version of the calculator [here](https://your-live-link.com) (replace with your live demo link if hosted).
-
 ## Screenshots
 
 ### Light Interface
