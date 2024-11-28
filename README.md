@@ -1,3 +1,7 @@
+Here’s the updated **README** file that includes the two screenshots (`Snap01.png` and `Snap02.png`) from the `Screenshots` folder:
+
+---
+
 # Calculator
 
 A **simple and interactive calculator** built with **HTML**, **CSS**, and **JavaScript**. This project demonstrates fundamental web development skills and provides users with a basic tool for performing arithmetic operations.
@@ -15,8 +19,11 @@ You can try out the live version of the calculator [here](https://your-live-link
 
 ## Screenshots
 
-![Calculator Screenshot](https://url/to/Screenshots/Snap01.png)  
-_A preview of the calculator interface._
+### Main Interface
+![Calculator Main Interface](Screenshots/Snap01.png)
+
+### Example Calculation
+![Calculator Example Calculation](Screenshots/Snap02.png)
 
 ## Technologies Used
 
@@ -88,4 +95,4 @@ See the [LICENSE](LICENSE) file for more information.
 
 ---
 
-Replace placeholders like `your-username`, `your-live-link.com`, and `your-email@example.com` with your actual information! Let me know if you'd like help with any specific details.
+This README will now display the screenshots in the `Screenshots` folder. Make sure the `Screenshots` folder is included in your GitHub repository with the images `Snap01.png` and `Snap02.png`. Let me know if you need further assistance!
