@@ -1,7 +1,3 @@
-Here’s a professional and informative README file template for your calculator project:
-
----
-
 # Calculator
 
 A **simple and interactive calculator** built with **HTML**, **CSS**, and **JavaScript**. This project demonstrates fundamental web development skills and provides users with a basic tool for performing arithmetic operations.
@@ -19,7 +15,7 @@ You can try out the live version of the calculator [here](https://your-live-link
 
 ## Screenshots
 
-![Calculator Screenshot](https://via.placeholder.com/800x400)  
+![Calculator Screenshot](https://url/to/Screenshots/Snap01.png)  
 _A preview of the calculator interface._
 
 ## Technologies Used
